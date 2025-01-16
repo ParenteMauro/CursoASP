@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoNivel3\\U2-IntroASP\\PrimerosejemplosASP.NET\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u2-introasp\\primerosejemplosasp.net\\primerosejemplosasp.net\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u2-introasp\\primerosejemplosasp.net\\primerosejemplosasp.net\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u2-introasp\\primerosejemplosasp.net\\primerosejemplosasp.net\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u2-introasp\\primerosejemplosasp.net\\primerosejemplosasp.net\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\primerosejemplosasp.net\\pruebaaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\pruebaaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u2-introasp\\primerosejemplosasp.net\\primerosejemplosasp.net\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\primerosejemplosasp.net\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B80D94-18B9-4040-95CF-0A2A4C24F889}|PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET.csproj|solutionrelative:primerosejemplosasp.net\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\login.aspx.cs",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\login.aspx.cs*",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\login.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:22:49.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\login.aspx",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\login.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\login.aspx",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-16T06:19:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Default.aspx.cs",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:45:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Default.aspx",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\Default.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Default.aspx",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-16T04:44:44.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaASPX.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\PruebaASPX.aspx",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\PruebaASPX.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\PruebaASPX.aspx",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\PruebaASPX.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-15T08:40:22.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Site.Master",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\Site.Master",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\Site.Master",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-15T08:33:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "PrimerosejemplosASP.NET\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U2-IntroASP\\PrimerosejemplosASP.NET\\PrimerosejemplosASP.NET\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "PrimerosejemplosASP.NET\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:55:47.045Z",
+              "EditorCaption": ""
             }
           ]
         }
