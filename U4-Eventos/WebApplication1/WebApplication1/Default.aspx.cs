@@ -12,10 +12,20 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            AutoNegocio negocio = new AutoNegocio();
 
-            dgvAutos.DataSource = negocio.listar();
+            if (Session["listaAutos"] == null)
+            {
+                AutoNegocio negocio = new AutoNegocio();
+                Session.Add("listaAutos", negocio.listar());
+
+
+            }
+            
+
+            dgvAutos.DataSource = (List<Auto>)Session["listaAutos"];
             dgvAutos.DataBind();
         }
+
+
     }
 }

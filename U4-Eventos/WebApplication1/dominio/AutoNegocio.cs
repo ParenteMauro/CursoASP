@@ -7,9 +7,13 @@ namespace WebApplication1.Dominio
 {
     public class AutoNegocio
     {
+        private List<Auto> listaAutos;
+            public AutoNegocio()
+        {
+            listaAutos = new List<Auto>();
+        }
         public List<Auto> listar()
         {
-            List<Auto> listaAutos = new List<Auto>();
             Auto auto1 = new Auto();
 
             auto1.Id = 1;
@@ -33,5 +37,11 @@ namespace WebApplication1.Dominio
             listaAutos.Add(auto2);
             return listaAutos;
         }
+
+        public void agregar(Auto auto)
+        {
+            listaAutos.Add(auto);
+        }
+
     }
 }

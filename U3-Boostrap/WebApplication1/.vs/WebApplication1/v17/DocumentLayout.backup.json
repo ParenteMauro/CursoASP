@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u3-boostrap\\webapplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u3-boostrap\\webapplication1\\webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursonv3\\u3-boostrap\\webapplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7FB29564-C025-4BD8-AC17-B5578BEC94D3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:18:20.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:33:02.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Login.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoNv3\\U3-Boostrap\\WebApplication1\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
