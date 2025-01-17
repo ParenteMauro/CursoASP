@@ -13,6 +13,15 @@ namespace WebApplication1
         Auto autoAgregar = new Auto();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Request.QueryString["id"]!= null)
+            {
+                int id = int.Parse(Request.QueryString["id"].ToString());
+                List<Auto> temporal = (List<Auto>)Session["listaAutos"];
+                Auto seleccionado = temporal.Find(x => x.Id == id);
+                txtColor.Text = seleccionado.Color;
+                txtModelo.Text = seleccionado.Modelo;
+                
+            }
           
         }
 
