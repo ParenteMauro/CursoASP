@@ -1,0 +1,6 @@
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\bin\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\bin\Debug\dominio.pdb
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\obj\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\u4-practica\WebApplication1\dominio\obj\Debug\dominio.pdb

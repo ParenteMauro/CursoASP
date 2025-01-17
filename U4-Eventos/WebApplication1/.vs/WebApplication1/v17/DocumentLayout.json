@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u4-eventos\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\autoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\autoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\dominio\\autonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|solutionrelative:dominio\\autonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u4-eventos\\webapplication1\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|solutionrelative:dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|solutionrelative:dominio\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6D0246-3118-4539-83DF-4B6F1A6EE61B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\dominio\\autonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745BA0A2-8EFE-422B-86D6-34AAF98DF6EE}|dominio\\dominio.csproj|solutionrelative:dominio\\autonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Site1.Master.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\Site1.Master.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\dominio\\Auto.cs",
               "RelativeDocumentMoniker": "dominio\\Auto.cs",
@@ -62,11 +62,12 @@
               "RelativeToolTip": "dominio\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T22:22:45.162Z"
+              "WhenOpened": "2025-01-16T22:22:45.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AutoNegocio.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\dominio\\AutoNegocio.cs",
               "RelativeDocumentMoniker": "dominio\\AutoNegocio.cs",
@@ -74,25 +75,23 @@
               "RelativeToolTip": "dominio\\AutoNegocio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T22:20:01.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T22:20:01.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\Default.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\Default.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Default.aspx.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAnwB8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwB8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T22:18:04.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T22:18:04.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
@@ -100,12 +99,11 @@
               "RelativeToolTip": "WebApplication1\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-16T22:05:41.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T22:05:41.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AutoForm.aspx",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\AutoForm.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\AutoForm.aspx",
@@ -118,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AutoForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\AutoForm.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\AutoForm.aspx.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U4-Eventos\\WebApplication1\\WebApplication1\\AutoForm.aspx.cs",
               "RelativeToolTip": "WebApplication1\\AutoForm.aspx.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T22:06:05.886Z",
               "EditorCaption": ""
