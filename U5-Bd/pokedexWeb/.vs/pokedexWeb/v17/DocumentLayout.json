@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u5-bd\\pokedexweb\\pokedexweb\\altapokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\altapokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u5-bd\\pokedexweb\\pokedexweb\\altapokemon.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\altapokemon.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA76900E-4148-48D7-9D78-2A099B05ECEC}|negocio\\negocio.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA76900E-4148-48D7-9D78-2A099B05ECEC}|negocio\\negocio.csproj|solutionrelative:negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u5-bd\\pokedexweb\\pokedexweb\\listaview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\listaview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexweb\\listaview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\listaview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u5-bd\\pokedexweb\\pokedexweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|c:\\users\\mauro\\desktop\\cursoasp\\u5-bd\\pokedexweb\\pokedexweb\\detallepokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD436D79-397E-4F0E-8B86-ECD5E9935ADB}|pokedexWeb\\pokedexWeb.csproj|solutionrelative:pokedexweb\\detallepokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltaPokemon.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\AltaPokemon.aspx.cs",
+              "RelativeDocumentMoniker": "pokedexWeb\\AltaPokemon.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\AltaPokemon.aspx.cs",
+              "RelativeToolTip": "pokedexWeb\\AltaPokemon.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:13:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AltaPokemon.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\AltaPokemon.aspx",
+              "RelativeDocumentMoniker": "pokedexWeb\\AltaPokemon.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\AltaPokemon.aspx",
+              "RelativeToolTip": "pokedexWeb\\AltaPokemon.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-19T03:58:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallePokemon.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\DetallePokemon.aspx",
+              "RelativeDocumentMoniker": "pokedexWeb\\DetallePokemon.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\DetallePokemon.aspx",
+              "RelativeToolTip": "pokedexWeb\\DetallePokemon.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-18T11:11:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "pokedexWeb\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\Default.aspx.cs",
+              "RelativeToolTip": "pokedexWeb\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:17:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "pokedexWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\Default.aspx",
+              "RelativeToolTip": "pokedexWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-18T10:09:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listaView.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\listaView.aspx.cs",
+              "RelativeDocumentMoniker": "pokedexWeb\\listaView.aspx.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\listaView.aspx.cs",
+              "RelativeToolTip": "pokedexWeb\\listaView.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:36:44.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "listaView.aspx",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\listaView.aspx",
+              "RelativeDocumentMoniker": "pokedexWeb\\listaView.aspx",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\pokedexWeb\\listaView.aspx",
+              "RelativeToolTip": "pokedexWeb\\listaView.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-19T04:15:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\negocio\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\PokemonNegocio.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoASP\\U5-Bd\\pokedexWeb\\negocio\\PokemonNegocio.cs",
+              "RelativeToolTip": "negocio\\PokemonNegocio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:16:20.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

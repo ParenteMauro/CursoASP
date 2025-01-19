@@ -1,0 +1,12 @@
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\bin\Debug\dominio.dll
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\bin\Debug\dominio.pdb
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\obj\Debug\dominio.dll
+C:\Users\mauro\Desktop\dbPractica1\WinFormPokemon\dominio\obj\Debug\dominio.pdb
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\bin\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\bin\Debug\dominio.pdb
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.pdb
