@@ -69,7 +69,7 @@ namespace WindowsFormsApp1
             try
             {
                 string consulta;
-                
+
 
                 conexion.setearProcedure("storedListas");
                 conexion.ejecutarLectura();
@@ -101,15 +101,15 @@ namespace WindowsFormsApp1
                 conexion.cerrarConexion();
             }
         }
-        
+
         public void agregar(Pokemon nuevo)
         {
             AccesoDatos conexion = new AccesoDatos();
             try
             {
-                conexion.setearConsulta("INSERT into POKEMONS(Numero, Nombre, Descripcion,Activo, IdTipo, IdDebilidad, UrlImagen) VALUES (" + nuevo.Numero + ", '" + nuevo.Nombre + "', '" + 
+                conexion.setearConsulta("INSERT into POKEMONS(Numero, Nombre, Descripcion,Activo, IdTipo, IdDebilidad, UrlImagen) VALUES (" + nuevo.Numero + ", '" + nuevo.Nombre + "', '" +
                     nuevo.Descripcion + "',1,@IdTipo,@IdDebilidad,@Url);");
-                conexion.setearParametro("@IdTipo",nuevo.Tipo.Id);
+                conexion.setearParametro("@IdTipo", nuevo.Tipo.Id);
                 conexion.setearParametro("@IdDebilidad", nuevo.Debilidad.Id);
                 conexion.setearParametro("@Url", nuevo.UrlImagen);
                 conexion.ejecutarAccion();
@@ -123,6 +123,30 @@ namespace WindowsFormsApp1
             }
         }
 
+        public void agregarSP(Pokemon nuevo)
+        {
+            AccesoDatos conexion = new AccesoDatos();
+            try
+            {
+                conexion.setearProcedure("storedAltaPokemon");
+
+                conexion.setearParametro("@Numero", nuevo.Numero);
+                conexion.setearParametro("@Nombre", nuevo.Nombre);
+                conexion.setearParametro("@Descripcion", nuevo.Descripcion);
+                conexion.setearParametro("@IdTipo", nuevo.Tipo.Id);
+                conexion.setearParametro("@IdDebilidad", nuevo.Debilidad.Id);
+                conexion.setearParametro("@UrlImagen", nuevo.UrlImagen);
+                //conexion.setearParametro("IdEvolucion", null);
+                conexion.ejecutarAccion();
+
+            }
+            catch (Exception ex)
+            { throw ex; }
+            finally
+            {
+                conexion.cerrarConexion();
+            }
+        }
         public void actualizar()
         {
             AccesoDatos actualizar = new AccesoDatos();
@@ -130,7 +154,7 @@ namespace WindowsFormsApp1
             {
                 actualizar.setearConsulta("");
             }
-            catch(Exception ex) { throw ex; }
+            catch (Exception ex) { throw ex; }
             finally
             {
                 actualizar.cerrarConexion();
@@ -144,13 +168,27 @@ namespace WindowsFormsApp1
                 conexion.setearConsulta("DELETE FROM POKEMONS WHERE Id= " + id + ";");
                 conexion.ejecutarAccion();
             }
-            catch(Exception ex) { throw ex; }
+            catch (Exception ex) { throw ex; }
             finally
             {
                 conexion.cerrarConexion();
             }
         }
-
+        public void quitarSP(int id)
+        {
+            AccesoDatos conexion = new AccesoDatos();
+            try
+            {
+                conexion.setearProcedure("storedEliminarPokemon");
+                conexion.setearParametro("@Id", id);
+                conexion.ejecutarLectura();
+            }
+            catch (Exception ex) { throw ex; }
+            finally
+            {
+                conexion.cerrarConexion();
+            }
+        }
         public void eliminarLogico(int id)
         {
             AccesoDatos conexion = new AccesoDatos();
@@ -159,7 +197,7 @@ namespace WindowsFormsApp1
                 conexion.setearConsulta("UPDATE POKEMONS SET Activo = 0 WHERE Id=" + id);
                 conexion.ejecutarAccion();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -191,7 +229,30 @@ namespace WindowsFormsApp1
             }
 
         }
-        
+        public void modificarSP(Pokemon modificar)
+        {
+            AccesoDatos conexion = new AccesoDatos();
+            try
+            {
+                conexion.setearProcedure("storedModificarPokemon");
+
+                conexion.setearParametro("@Numero", modificar.Numero);
+                conexion.setearParametro("@Nombre", modificar.Nombre);
+                conexion.setearParametro("@UrlImagen", modificar.UrlImagen);
+                conexion.setearParametro("@Descripcion", modificar.Descripcion);
+                conexion.setearParametro("@IdTipo", modificar.Tipo.Id);
+                conexion.setearParametro("@IdDebilidad", modificar.Debilidad.Id);
+                conexion.setearParametro("@Id" , modificar.Id);
+                conexion.ejecutarLectura();
+
+            }
+            catch (Exception ex) { throw ex; }
+            finally
+            {
+                conexion.cerrarConexion();
+            }
+
+        }
         public List<Pokemon> filtrar(string campo, string criterio, string filtro)
         {
             AccesoDatos conexion = new AccesoDatos();
@@ -200,31 +261,32 @@ namespace WindowsFormsApp1
             {
                 string consulta;
                 consulta = ("SELECT P.id as idPokemon, P.Numero, P.Nombre, P.Descripcion, P.UrlImagen, E.Id AS idElemento ,E.Descripcion AS Tipo,D.Id AS idDebilidad, D.Descripcion AS Debilidad FROM POKEMONS P, ELEMENTOS E, ELEMENTOS D WHERE  E.Id = P.IdTipo AND D.Id = P.IdDebilidad AND P.Activo = 1 ");
-                if (filtro != "") { 
-                switch (criterio)
+                if (filtro != "")
                 {
-                    case "Mayor a":
+                    switch (criterio)
                     {
-                        consulta += "AND Numero > " + filtro;
-                        break;
-                    }
-                    case "Menor a":
-                        consulta += "AND Numero <" + filtro;
-                        break;
-                    case "Igual a":
-                        consulta += "AND Numero =" + filtro;
-                        break;
-                    case "Comienza con":
-                        consulta += "AND Nombre LIKE '" + filtro + "%'";
-                        break;
-                    case "Termina en":
-                        consulta += "AND Nombre LIKE '%" + filtro + "'";
-                        break;
-                    case "Contiene":
-                        consulta += "AND Nombre LIKE '%" + filtro + "%'";
-                        break;
+                        case "Mayor a":
+                            {
+                                consulta += "AND Numero > " + filtro;
+                                break;
+                            }
+                        case "Menor a":
+                            consulta += "AND Numero <" + filtro;
+                            break;
+                        case "Igual a":
+                            consulta += "AND Numero =" + filtro;
+                            break;
+                        case "Comienza con":
+                            consulta += "AND Nombre LIKE '" + filtro + "%'";
+                            break;
+                        case "Termina en":
+                            consulta += "AND Nombre LIKE '%" + filtro + "'";
+                            break;
+                        case "Contiene":
+                            consulta += "AND Nombre LIKE '%" + filtro + "%'";
+                            break;
 
-                }
+                    }
                 }
                 conexion.setearConsulta(consulta);
                 conexion.ejecutarLectura();
@@ -248,6 +310,44 @@ namespace WindowsFormsApp1
                     listaFiltrada.Add(aux);
                 }
                 return listaFiltrada;
+
+            }
+            catch (Exception ex) { throw ex; }
+            finally
+            {
+                conexion.cerrarConexion();
+            }
+        }
+        public Pokemon traer(int id)
+        {
+            AccesoDatos conexion = new AccesoDatos();
+            try
+            {
+
+                conexion.setearConsulta("SELECT P.id as idPokemon, P.Numero, P.Nombre, P.Descripcion, P.UrlImagen, E.Id AS idElemento ,E.Descripcion AS Tipo,D.Id AS idDebilidad, D.Descripcion AS Debilidad FROM POKEMONS P, ELEMENTOS E, ELEMENTOS D WHERE  E.Id = P.IdTipo AND D.Id = P.IdDebilidad AND P.Activo = 1 AND P.ID=@Id;");
+                conexion.setearParametro("@id", id);
+                Pokemon aux = new Pokemon();
+                conexion.ejecutarLectura();
+                while (conexion.Lector.Read())
+                {
+
+                    aux.Id = (int)conexion.Lector["idPokemon"];
+                    aux.Numero = (int)conexion.Lector["Numero"];
+                    aux.Nombre = (string)conexion.Lector["Nombre"];
+                    aux.Descripcion = (string)conexion.Lector["Descripcion"];
+                    if (!(conexion.Lector["UrlImagen"] is DBNull))
+                    {
+                        aux.UrlImagen = (string)conexion.Lector["UrlImagen"];
+                    }
+                    aux.Tipo = new Elemento();
+                    aux.Tipo.Id = (int)conexion.Lector["idElemento"];
+                    aux.Debilidad = new Elemento();
+                    aux.Debilidad.Id = (int)conexion.Lector["idDebilidad"];
+                    aux.Tipo.Descripcion = (string)conexion.Lector["Tipo"];
+                    aux.Debilidad.Descripcion = (string)conexion.Lector["Debilidad"];
+
+                }
+                return aux;
 
             }
             catch (Exception ex) { throw ex; }
