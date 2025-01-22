@@ -14,10 +14,18 @@ namespace pokedexWeb
        
         protected void Page_Load(object sender, EventArgs e)
         {
-            PokemonNegocio negocio = new PokemonNegocio();
-            Session.Add("listaPokemons", negocio.listarConSP());
-            dgvPokemon.DataSource = (List <Pokemon>)Session["listaPokemons"];
-            dgvPokemon.DataBind();
+            if (!Seguridad.esAdmin(Session["user"])) {
+                Session.Add("error", "No tiene permisos de admin para lista Pokémons");
+                Response.Redirect("Error.aspx", false);
+            }
+            else
+            {
+                
+                PokemonNegocio negocio = new PokemonNegocio();
+                Session.Add("listaPokemons", negocio.listarConSP());
+                dgvPokemon.DataSource = (List<Pokemon>)Session["listaPokemons"];
+                dgvPokemon.DataBind();
+            }
         }
 
         protected void dgvPokemon_SelectedIndexChanged(object sender, EventArgs e)
@@ -108,6 +116,7 @@ namespace pokedexWeb
 
         protected void btnRecargar_Click(object sender, EventArgs e)
         {
+            
             dgvPokemon.DataSource = (List<Pokemon>)Session["listaPokemons"];
             dgvPokemon.DataBind();
 

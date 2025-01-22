@@ -10,3 +10,9 @@ C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.cspro
 C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.dll
 C:\Users\mauro\Desktop\CursoASP\U5-Bd\pokedexWeb\dominio\obj\Debug\dominio.pdb
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\bin\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\bin\Debug\dominio.pdb
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\obj\Debug\dominio.dll
+C:\Users\mauro\Desktop\CursoASP\U5_U6-Bd\pokedexWeb\dominio\obj\Debug\dominio.pdb

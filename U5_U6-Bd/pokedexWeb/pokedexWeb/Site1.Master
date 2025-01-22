@@ -16,7 +16,7 @@
     <form id="form1" runat="server">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Poke-Dex</a>
+                <a class="navbar-brand" href="Default.aspx">Poke-Dex</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -25,12 +25,49 @@
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="Default.aspx">Home</a>
                         </li>
+                        <%if (negocio.Seguridad.esAdmin(Session["user"]))
+                            {  %>
                         <li class="nav-item">
                             <a class="nav-link" href="listaView.aspx">Lista</a>
                         </li>
-                        
+                        <%} %>
+                        <li class="nav-item">
+                            <a class="nav-link" href="AltaPokemon.aspx">Agregar Pokémon</a>
+                        </li>
+                        <%if (negocio.Seguridad.sesionActiva(Session["user"]))
+                            { %>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="MiPerfil.aspx">Mi Perfil</a>
+                        </li>
+                        <% } %>
                     </ul>
                 </div>
+            </div>
+            <div>
+                <%if (!(negocio.Seguridad.sesionActiva(Session["user"])))
+                    {  %>
+                <ul class="navbar-nav">
+                    <li>
+                        <asp:Button runat="server" CssClass="btn btn-primary ms-3" Text="Log In" ID="btnLogIn" OnClick="btnLogIn_Click" /></li>
+
+                    <li>
+                        <asp:Button runat="server" CssClass="btn btn-outline-primary ms-3" ID="btnRegistro" Text="Registrarse" OnClick="btnRegistro_Click" /></li>
+                </ul>
+                <% }%>
+                <%else
+                    {  %>
+                <ul class="navbar-nav">
+                    <li>
+                        <asp:Button runat="server" CssClass="btn btn-primary ms-3" Text="Cerrar Sesión" ID="btnLogOut" OnClick="btnLogIn_Click" /></li>
+
+                    <li>
+                        <a class="navbar-brand" hred="#">
+                            <asp:Image ID="logoImagen" runat="server" style="height:40px; width:40px; border-radius:50%;" />
+                        </a>
+
+                    </li>
+                </ul>
+                <%}%>
             </div>
         </nav>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
